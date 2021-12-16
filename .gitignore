@@ -1,0 +1,8 @@
+/.idea/
+/experiments/
+/wandb/
+/__pycache__/
+scores/
+
+*.pt
+*.sh
